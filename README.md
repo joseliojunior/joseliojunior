@@ -12,3 +12,6 @@
 ![HTML Badge](https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=fff)  ![CSS Badge](https://img.shields.io/badge/CSS-1573b6?style=flat-square&logo=css3&logoColor=fff)  ![JS Badge](https://img.shields.io/badge/JavaScript-f7ad00?style=flat-square&logo=javascript&logoColor=fff)  ![JSON Badge](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=fff)  ![Kotlin Badge](https://img.shields.io/badge/Kotlin-4c8bf7?style=flat-square&logo=kotlin&logoColor=fff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseliojunior&layout=compact)
+
+![Lil' message](00.png)
+
