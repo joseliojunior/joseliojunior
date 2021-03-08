@@ -1,8 +1,8 @@
 ![title](title.png)
 
-![artstation](https://img.shields.io/badge/-ArtStation-13aef0?style=flat&logo=artstation&logoColor=fff&link=https://www.artstation.com/josliojnior)![github](https://img.shields.io/badge/-GitHub-0d1117?style=flat&logo=Github&logoColor=fff&link=https://github.com/joseliojunior)![linkedin](https://img.shields.io/badge/Josélio%20Júnior%20-0275b3?style=flat&logo=linkedin&link=https://www.linkedin.com/in/josélio-de-souza-cavalcante-júnior-ba66791a3)
+![artstation](https://img.shields.io/badge/-ArtStation-13aef0?style=flat&logo=artstation&logoColor=fff&link=https://www.artstation.com/josliojnior) ![github](https://img.shields.io/badge/-GitHub-0d1117?style=flat&logo=Github&logoColor=fff&link=https://github.com/joseliojunior) ![linkedin](https://img.shields.io/badge/Josélio%20Júnior%20-0275b3?style=flat&logo=linkedin&link=https://www.linkedin.com/in/josélio-de-souza-cavalcante-júnior-ba66791a3)
 
-![html](https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=fff)![css](https://img.shields.io/badge/CSS-1573b6?style=flat&logo=css3&logoColor=fff)![javascript](https://img.shields.io/badge/JavaScript-f7ad00?style=flat&logo=javascript&logoColor=fff)![json](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=fff)![kotlin](https://img.shields.io/badge/Kotlin-4c8bf7?style=flat&logo=kotlin&logoColor=fff)
+![html](https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=fff) ![css](https://img.shields.io/badge/CSS-1573b6?style=flat&logo=css3&logoColor=fff) ![javascript](https://img.shields.io/badge/JavaScript-f7ad00?style=flat&logo=javascript&logoColor=fff) ![json](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=fff) ![kotlin](https://img.shields.io/badge/Kotlin-4c8bf7?style=flat&logo=kotlin&logoColor=fff)
 
 ![splash](splash.png)
 
