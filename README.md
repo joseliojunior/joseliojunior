@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=fff">
   <img src="https://img.shields.io/badge/Kotlin-4c8bf7?style=for-the-badge&logo=kotlin&logoColor=fff">
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=fff">
   <img src="https://img.shields.io/badge/Intellij_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=fff">
   <img src="https://img.shields.io/badge/Android_Studio-3ddc84?style=for-the-badge&logo=android-studio&logoColor=fff">
