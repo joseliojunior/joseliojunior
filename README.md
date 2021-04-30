@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/CSS-1573b6?style=flat&logo=css3&logoColor=fff">
   <img src="https://img.shields.io/badge/JavaScript-f7ad00?style=flat&logo=javascript&logoColor=fff">
   <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=fff">
-  <img src="https://img.shields.io/badge/Kotlin-4c8bf7?style=flat&logo=kotlin&logoColor=fff">
+  <img src="https://img.shields.io/badge/Kotlin-0095d5?style=flat&logo=kotlin&logoColor=fff">
   <br>
   <b>Tools</b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007acc?style=flat&logo=visual-studio-code&logoColor=fff">
@@ -34,7 +34,7 @@ I tried Java as the first programming language, but I found myself in JavaScript
 Then I learned through a lot of sites and videos about front-end programming using HTML, CSS and JavaScript.
 </h3>
 <h3 align="center">
- In December 2020, after a long gap since April of the same year, I decided to make some web page to practice what I've learned and it was much fun. Until some day around February of this year (2021) that I woked up, grabed my phone and looked to a notification about a Kotlin course. So I thought to myself: Why don't give it a chance?<br>
+ In December 2020, after a long gap since April of the same year, I decided to make some web page to practice what I've learned and it was much fun. Until some day around February of this year (2021) that I woked up, grabed my phone and looked to a notification about a Kotlin course. So I thought to myself: Why don't give it a chance?<br><br>
   I must confess that it was quite different and challenging than I thought it would be, but I won't give up! 🤩
 </h3>
 <p align="center">
