@@ -5,17 +5,26 @@
   Site: <a href="http://joseliojunior.github.io">joseliojunior.github.io</a>
 </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/-ArtStation-13aef0?style=flat&logo=artstation&logoColor=fff&link=https://www.artstation.com/josliojnior">
-  <img src="https://img.shields.io/badge/-GitHub-0d1117?style=flat&logo=Github&logoColor=fff&link=https://github.com/joseliojunior">
-  <img src="https://img.shields.io/badge/Josélio%20Júnior%20-0275b3?style=flat&logo=linkedin&link=https://www.linkedin.com/in/josélio-de-souza-cavalcante-júnior-ba66791a3">
   <img src="https://badges.pufler.dev/visits/joseliojunior/joseliojunior">
+  <img src="https://badges.pufler.dev/commits/monthly/joseliojunior">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=fff">
-  <img src="https://img.shields.io/badge/CSS-1573b6?style=flat&logo=css3&logoColor=fff">
-  <img src="https://img.shields.io/badge/JavaScript-f7ad00?style=flat&logo=javascript&logoColor=fff">
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=fff">
-  <img src="https://img.shields.io/badge/Kotlin-4c8bf7?style=flat&logo=kotlin&logoColor=fff">
+  <img src="https://img.shields.io/badge/-ArtStation-13aef0?style=for-the-badge&logo=artstation&logoColor=fff&link=https://www.artstation.com/josliojnior">
+  <img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=Github&logoColor=fff&link=https://github.com/joseliojunior">
+  <img src="https://img.shields.io/badge/Josélio%20Júnior%20-0275b3?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/josélio-de-souza-cavalcante-júnior-ba66791a3">
+  
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=fff">
+  <img src="https://img.shields.io/badge/CSS-1573b6?style=for-the-badge&logo=css3&logoColor=fff">
+  <img src="https://img.shields.io/badge/JavaScript-f7ad00?style=for-the-badge&logo=javascript&logoColor=fff">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=fff">
+  <img src="https://img.shields.io/badge/Kotlin-4c8bf7?style=for-the-badge&logo=kotlin&logoColor=fff">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=fff">
+  <img src="https://img.shields.io/badge/Intellij_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=fff">
+  <img src="https://img.shields.io/badge/Android_Studio-3ddc84?style=for-the-badge&logo=android-studio&logoColor=fff">
 </p>
 <h3 align="center">
   <b>I'm a Nutrition Student that decided to give a chance in programming in March 2020.</b>
