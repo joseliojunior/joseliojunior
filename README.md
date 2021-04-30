@@ -17,17 +17,17 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=fff">
   <img src="https://img.shields.io/badge/Kotlin-4c8bf7?style=flat&logo=kotlin&logoColor=fff">
 </p>
-<p align="center">
+<h3 align="center">
   <b>I'm a Nutrition Student that decided to give a chance in programming in March 2020.</b>
-</p>
-<p align="center">
+</h3>
+<h3 align="center">
 I tried Java as the first programming language, but I found myself in JavaScript.<br>
 Then I learned through a lot of sites and videos about front-end programming using HTML, CSS and JavaScript.
-</p>
-<p align="center">
+</h3>
+<h3 align="center">
  In December 2020, after a long gap since April of the same year, I decided to make some web page to practice what I've learned and it was much fun. Until some day around February of this year (2021) that I woked up, grabed my phone and looked to a notification about a Kotlin course. So I thought to myself: Why don't give it a chance?<br>
   I must confess that it was quite different and challenging than I thought it would be, but I won't give up! 🤩
-</p>
+</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joseliojunior&show_icons=true&bg_color=0d1117&title_color=66ffcc&icon_color=88ff00&text_color=af4dff&locale=pt-br&hide_border=true&border_radius=10">
 </p>
