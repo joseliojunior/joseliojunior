@@ -44,5 +44,5 @@ Then I learned through a lot of sites and videos about front-end programming usi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseliojunior&layout=compact&bg_color=0d1117&title_color=66ffcc&text_color=88ff00&locale=pt-br&hide_border=true&border_radius=10&card_width=450">
 </p>
 <p align="center">
-  <img src="charm.png">
+  <img src="charm.png"><img width="150px" src="me.png">
 </p>
