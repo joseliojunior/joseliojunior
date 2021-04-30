@@ -8,20 +8,20 @@
   <img src="https://badges.pufler.dev/visits/joseliojunior/joseliojunior">
   <img src="https://badges.pufler.dev/commits/monthly/joseliojunior">
 </p>
-<p align="center">
+<p>
+  <b>Social</b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img src="https://img.shields.io/badge/-ArtStation-13aef0?style=flat&logo=artstation&logoColor=fff&link=https://www.artstation.com/josliojnior">
   <img src="https://img.shields.io/badge/-GitHub-0d1117?style=flat&logo=Github&logoColor=fff&link=https://github.com/joseliojunior">
   <img src="https://img.shields.io/badge/Josélio%20Júnior%20-0275b3?style=flat&logo=linkedin&link=https://www.linkedin.com/in/josélio-de-souza-cavalcante-júnior-ba66791a3">
-  
-</p>
-<p align="center">
+  <br>
+  <b>Languages</b>&nbsp&nbsp&nbsp&nbsp
   <img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=fff">
   <img src="https://img.shields.io/badge/CSS-1573b6?style=flat&logo=css3&logoColor=fff">
   <img src="https://img.shields.io/badge/JavaScript-f7ad00?style=flat&logo=javascript&logoColor=fff">
   <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=fff">
   <img src="https://img.shields.io/badge/Kotlin-4c8bf7?style=flat&logo=kotlin&logoColor=fff">
-</p>
-<p align="center">
+  <br>
+  <b>Tools</b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007acc?style=flat&logo=visual-studio-code&logoColor=fff">
   <img src="https://img.shields.io/badge/Intellij_IDEA-000000?style=flat&logo=intellij-idea&logoColor=fff">
   <img src="https://img.shields.io/badge/Android_Studio-3ddc84?style=flat&logo=android-studio&logoColor=fff">
