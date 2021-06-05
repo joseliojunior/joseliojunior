@@ -15,11 +15,11 @@
   <img src="https://img.shields.io/badge/Josélio%20Júnior%20-0275b3?style=flat&logo=linkedin&link=https://www.linkedin.com/in/josélio-de-souza-cavalcante-júnior-ba66791a3">
   <br>
   <b>Languages</b>&nbsp&nbsp&nbsp&nbsp
-  <img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=fff">
-  <img src="https://img.shields.io/badge/CSS-1573b6?style=flat&logo=css3&logoColor=fff">
-  <img src="https://img.shields.io/badge/JavaScript-f7ad00?style=flat&logo=javascript&logoColor=fff">
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=fff">
-  <img src="https://img.shields.io/badge/Kotlin-0095d5?style=flat&logo=kotlin&logoColor=fff">
+  <img src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=1c0c08">
+  <img src="https://img.shields.io/badge/CSS-563d7c?style=flat&logo=css3&logoColor=beadd7">
+  <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=flat&logo=javascript&logoColor=544c12">
+  <img src="https://img.shields.io/badge/Kotlin-a97bff?style=flat&logo=kotlin&logoColor=380f85">
+  <img src="https://img.shields.io/badge/JSON-dddddd?style=flat&logo=json&logoColor=333333">
   <br>
   <b>Tools</b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007acc?style=flat&logo=visual-studio-code&logoColor=fff">
