@@ -10,9 +10,17 @@
 </p>
 <p>
   <b>Social</b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img src="https://img.shields.io/badge/-ArtStation-13aef0?style=flat&logo=artstation&logoColor=fff&link=https://www.artstation.com/josliojnior">
-  <img src="https://img.shields.io/badge/-GitHub-0d1117?style=flat&logo=Github&logoColor=fff&link=https://github.com/joseliojunior">
-  <img src="https://img.shields.io/badge/Josélio%20Júnior%20-0275b3?style=flat&logo=linkedin&link=https://www.linkedin.com/in/josélio-de-souza-cavalcante-júnior-ba66791a3">
+  <a href="https://www.artstation.com/josliojnior">
+    <img src="https://img.shields.io/badge/-ArtStation-13aef0?style=flat&logo=artstation&logoColor=fff">
+  </a>
+  <a href="https://github.com/joseliojunior">
+    <img src="https://img.shields.io/badge/-GitHub-0d1117?style=flat&logo=Github&logoColor=fff">
+  </a>
+  <a href="https://www.linkedin.com/in/josélio-de-souza-cavalcante-júnior-ba66791a3">
+    <img src="https://img.shields.io/badge/Josélio%20Júnior%20-0275b3?style=flat&logo=linkedin">
+  </a>
+  
+  
   <br>
   <b>Languages</b>&nbsp&nbsp&nbsp&nbsp
   <img src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=1c0c08">
