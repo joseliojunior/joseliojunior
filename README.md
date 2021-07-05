@@ -11,28 +11,31 @@
 <p>
   <b>Social</b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="https://www.artstation.com/josliojnior">
-    <img src="https://img.shields.io/badge/-ArtStation-13aef0?style=flat&logo=artstation&logoColor=fff">
+    <img src="https://img.shields.io/badge/-ArtStation-13aef0?style=for-the-badge&logo=artstation&logoColor=fff">
   </a>
   <a href="https://github.com/joseliojunior">
-    <img src="https://img.shields.io/badge/-GitHub-0d1117?style=flat&logo=Github&logoColor=fff">
+    <img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=Github&logoColor=fff">
   </a>
   <a href="https://www.linkedin.com/in/josélio-de-souza-cavalcante-júnior-ba66791a3">
-    <img src="https://img.shields.io/badge/Josélio%20Júnior%20-0275b3?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/Josélio%20Júnior%20-0275b3?style=for-the-badge&logo=linkedin">
   </a>
   
   
   <br>
   <b>Languages</b>&nbsp&nbsp&nbsp&nbsp
-  <img src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=1c0c08">
-  <img src="https://img.shields.io/badge/CSS-563d7c?style=flat&logo=css3&logoColor=beadd7">
-  <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=flat&logo=javascript&logoColor=544c12">
-  <img src="https://img.shields.io/badge/Kotlin-a97bff?style=flat&logo=kotlin&logoColor=380f85">
-  <img src="https://img.shields.io/badge/JSON-dddddd?style=flat&logo=json&logoColor=333333">
+  <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=1c0c08">
+  <img src="https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logo=css3&logoColor=beadd7">
+  <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=544c12">
+  <img src="https://img.shields.io/badge/Kotlin-a97bff?style=for-the-badge&logo=kotlin&logoColor=380f85">
+  <img src="https://img.shields.io/badge/JSON-dddddd?style=for-the-badge&logo=json&logoColor=333333">
+  <br>
+  <b>Libraries</b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=111">
   <br>
   <b>Tools</b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007acc?style=flat&logo=visual-studio-code&logoColor=fff">
-  <img src="https://img.shields.io/badge/Intellij_IDEA-000000?style=flat&logo=intellij-idea&logoColor=fff">
-  <img src="https://img.shields.io/badge/Android_Studio-3ddc84?style=flat&logo=android-studio&logoColor=fff">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=fff">
+  <img src="https://img.shields.io/badge/Intellij_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=fff">
+  <img src="https://img.shields.io/badge/Android_Studio-3ddc84?style=for-the-badge&logo=android-studio&logoColor=fff">
 </p>
 <h3 align="center">
   <b>I'm a Nutrition Student that decided to give a chance in programming in March 2020.</b>
